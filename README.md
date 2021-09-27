@@ -5,7 +5,9 @@ C/C++ libvirt exercise
 To compile:\
   gcc -g -Wall ex_libvirt.c -o ex_libvirt -lvirt\
 Then run\
-  ./ex_libvirt 
+  ./ex_libvirt \
+  
+  Here can you see the output compared to virsh list --all
 
 ![comparison to virsh listt --all](https://github.com/silascool/ZC-Exercises/blob/main/Screenshot%20from%202021-09-27%2022-12-32.png)
  
