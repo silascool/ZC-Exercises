@@ -24,5 +24,5 @@ There are 4 commands you can preform in the libary program:\
   - list, list libarys selection off books and their status.\
   - borrow [book title], borrows the specified book from the libary.\
   - return [book title], returns the specified book from the libary.\
-  (all words in a book title start with capital lettters)
+  (all words in a book title start with capital lettters)\
   example:  borrow War And Peace
