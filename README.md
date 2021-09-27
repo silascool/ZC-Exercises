@@ -7,7 +7,7 @@ To compile:\
 Then run\
   ./ex_libvirt 
 
-
+![comparison to virsh listt --all](https://github.com/silascool/ZC-Exercises/blob/main/Screenshot%20from%202021-09-27%2022-12-32.png)
  
 
 C/C++ Double linked list exercise
