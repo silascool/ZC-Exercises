@@ -12,17 +12,17 @@ Then run\
 
 C/C++ Double linked list exercise
 --------------------------------
-There is two things to be aware off, when implementing insert.\
-  - First that we dont overide the Prev-right before we have updated the right node.\
-  - Secondly that we are aware off that Prev-right could be NULL.\
+There is two things to be aware off, when implementing insert.
+  - First that we dont overide the Prev-right before we have updated the right node.
+  - Secondly that we are aware off that Prev-right could be NULL.
 
 
 RUST Library exercise
 --------------------
-There are 4 commands you can preform in the libary program:\
-  - quit or q, quits libary.\
-  - list, list libarys selection off books and their status.\
-  - borrow [book title], borrows the specified book from the libary.\
-  - return [book title], returns the specified book from the libary.\
+There are 4 commands you can preform in the libary program:
+  - quit or q, quits libary.
+  - list, list libarys selection off books and their status.
+  - borrow [book title], borrows the specified book from the libary.
+  - return [book title], returns the specified book from the libary.
   (all words in a book title start with capital lettters)\
   example:  borrow War And Peace
