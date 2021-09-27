@@ -1,6 +1,6 @@
 # ZC-Exercises
 
-C/C++ libvirt exercise
+C/C++ libvirt exercise\n
 To compile:
   gcc -g -Wall ex_libvirt.c -o ex_libvirt -lvirt
 Then run
