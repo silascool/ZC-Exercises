@@ -1,6 +1,7 @@
 # ZC-Exercises
 
-C/C++ libvirt exercise\
+C/C++ libvirt exercise
+----------------------
 To compile:\
   gcc -g -Wall ex_libvirt.c -o ex_libvirt -lvirt\
 Then run\
@@ -9,17 +10,19 @@ Then run\
 
  
 
-C/C++ Double linked list exercise\
+C/C++ Double linked list exercise
+--------------------------------
 There is two things to be aware off, when implementing insert.\
-  First that we dont overide the Prev-right before we have updated the right node.\
-  Secondly that we are aware off that Prev-right could be NULL.\
+  - First that we dont overide the Prev-right before we have updated the right node.\
+  - Secondly that we are aware off that Prev-right could be NULL.\
 
 
-RUST Library exercise\
+RUST Library exercise
+--------------------
 There are 4 commands you can preform in the libary program:\
-  quit or q, quits libary.\
-  list, list libarys selection off books and their status.\
-  borrow [book title], borrows the specified book from the libary.\
-  return [book title], returns the specified book from the libary.\
+  - quit or q, quits libary.\
+  - list, list libarys selection off books and their status.\
+  - borrow [book title], borrows the specified book from the libary.\
+  - return [book title], returns the specified book from the libary.\
   (all words in a book title start with capital lettters)
   example:  borrow War And Peace
